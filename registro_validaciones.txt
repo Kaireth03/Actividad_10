@@ -6,3 +6,27 @@ Longitud: La contraseña es muy corta. Debe tener al menos 8 caracteres.
 Mayúsculas: La contraseña debe contener al menos dos letras mayúsculas.
 Minúsculas: Contiene suficientes letras minúsculas.
 --------------------------
+
+Contraseña: hola
+Longitud: La contraseña es muy corta. Debe tener al menos 8 caracteres.
+Número: La contraseña debe contener al menos un número.
+Mayúsculas: La contraseña debe contener al menos dos letras mayúsculas.
+Carácter especial: La contraseña debe contener al menos un carácter especial.
+Minúsculas: Contiene suficientes letras minúsculas.
+--------------------------
+
+Contraseña: HOla67-uip
+Longitud: Longitud válida.
+Carácter especial: La contraseña debe contener al menos un carácter especial.
+Mayúsculas: Contiene suficientes letras mayúsculas.
+Minúsculas: Contiene suficientes letras minúsculas.
+Número: Contiene al menos un número.
+--------------------------
+
+Contraseña: HOla@67uip
+Longitud: Longitud válida.
+Carácter especial: Contiene al menos un carácter especial.
+Mayúsculas: Contiene suficientes letras mayúsculas.
+Número: Contiene al menos un número.
+Minúsculas: Contiene suficientes letras minúsculas.
+--------------------------
