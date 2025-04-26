@@ -29,6 +29,10 @@ public class LoggerUtil {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        String respuesta;
+
+        do{
+
         System.out.print("Ingrese una contraseña para validar: ");
         String contraseña = scanner.nextLine();
 
@@ -57,6 +61,8 @@ public class LoggerUtil {
         }
 
         guardarEnArchivo(contraseña, log);
-        System.out.println("\nResultado guardado en 'registro_validaciones.txt'.");
+        System.out.print("\n¿Desea ingresar otra contraseña? (s/n): ");
+        respuesta = scanner.nextLine().toLowerCase();
+    } while (respuesta.equals("s"));
     }
 }

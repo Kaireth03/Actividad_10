@@ -1,0 +1,8 @@
+
+Contraseña: hola
+Carácter especial: La contraseña debe contener al menos un carácter especial.
+Número: La contraseña debe contener al menos un número.
+Longitud: La contraseña es muy corta. Debe tener al menos 8 caracteres.
+Mayúsculas: La contraseña debe contener al menos dos letras mayúsculas.
+Minúsculas: Contiene suficientes letras minúsculas.
+--------------------------
